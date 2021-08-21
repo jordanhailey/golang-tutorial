@@ -54,4 +54,7 @@ All Go modules have the same basic composition.
 - Functions that return a value require that you declare the return type.
 - the `:=` operator is a shortcut for declaring and initializing a variable in one line, the type of the value on the right sets the variable type.
 
+## Calling your shared module
+> https://golang.org/doc/tutorial/call-module-code
+
 
